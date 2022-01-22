@@ -1,0 +1,50 @@
+.changeColor {
+    display: flex;
+}
+
+.par {
+    margin-left: 20px;
+    margin-right: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+
+.chooseOption {
+    width: 200px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    background-color: transparent;
+}
+
+.title {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100px;
+    text-align: center;
+    font-style: italic;
+    font-weight: 200;
+
+}
+
+.standart {
+    background-color: rgb(247, 245, 242);
+    color: rgb(7, 7, 7);
+    height: 100rem;
+}
+
+.gray {
+    background-color: rgb(105, 103, 101);
+    color: rgb(21, 21, 22);
+    height: 100rem;
+}
+
+.blue {
+    background-color: rgb(9, 98, 139);
+    color: rgb(234, 253, 65);
+    height: 100rem;
+}
+
+.red {
+    background-color: rgb(128, 6, 6);
+    color: rgb(243, 229, 235);
+    height: 100rem;
+}
